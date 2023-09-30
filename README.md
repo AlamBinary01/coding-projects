@@ -1,6 +1,6 @@
 # Coding Projects
 
-Here are descriptions and usage instructions for various coding projects:
+Descriptions and usage instructions for various coding projects:
 
 ## Project: 2048 In Bash.sh
 
